@@ -1,3 +1,3 @@
 ## github action study
 
-### test
+### test 2
